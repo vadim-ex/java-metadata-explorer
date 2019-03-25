@@ -1,0 +1,9 @@
+# gradle related-files
+.gradle/
+out/
+build/
+
+.idea/
+
+# private scripts etc.
+_/
